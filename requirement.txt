@@ -1,1 +1,11 @@
+yfinance
+pandas
+numpy
+matplotlib
+prophet
+transformers
+torch
+streamlit
+reportlab
+scikit-learn
 
